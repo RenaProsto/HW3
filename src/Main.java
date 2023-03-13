@@ -129,7 +129,7 @@ public class Main {
         int moneyKrisBonusOneYear = moneyKrisBonus * 12;
         System.out.println("Маша теперь получает " + moneyMashaBonus + " рублей. Годовой доход вырос с " + moneyMashaOneYear + " до " + moneyMahaBonusOneYear + " на " + moneyMasha10Pr + " рублей."   );
         System.out.println("Денис теперь получает " + moneyDenBonus + " рублей. Годовой доход вырос с " + moneyDenOneYear + " до " + moneyDenBonusOneYear + " на " + moneyDen10Pr + " рублей."   );
-        System.out.println("Маша теперь получает " + moneyKrisBonus + " рублей. Годовой доход вырос с " + moneyKrisOneYear + " до " + moneyKrisBonusOneYear + " на " + moneyKris10Pr + " рублей ."   );
+        System.out.println("Маша теперь получает " + moneyKrisBonus + " рублей. Годовой доход вырос с " + moneyKrisOneYear + " до " + moneyKrisBonusOneYear + " на " + moneyKris10Pr + " рублей."   );
 
 
 
